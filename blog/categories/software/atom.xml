@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Software | One Hundred and Eighty Days]]></title>
+  <link href="http://patrickyeon.github.io/one-eighty-days/blog/categories/software/atom.xml" rel="self"/>
+  <link href="http://patrickyeon.github.io/one-eighty-days/"/>
+  <updated>2013-07-27T20:44:41-07:00</updated>
+  <id>http://patrickyeon.github.io/one-eighty-days/</id>
+  <author>
+    <name><![CDATA[Patrick Yeon]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[INA3221 Library (day 1)]]></title>
+    <link href="http://patrickyeon.github.io/one-eighty-days/blog/2013/07/27/ina3221-library-day-1/"/>
+    <updated>2013-07-27T20:30:00-07:00</updated>
+    <id>http://patrickyeon.github.io/one-eighty-days/blog/2013/07/27/ina3221-library-day-1</id>
+    <content type="html"><![CDATA[<p>As promised, my first release is up at <a href="http://github.com/patrickyeon/arduinolibs/">http://github.com/patrickyeon/arduinolibs/</a>. It&rsquo;s a library for working with <a href="http://www.ti.com/product/ina3221">TI&rsquo;s INA3221</a> current and voltage measurent IC, a chip that I&rsquo;ve been pretty happy with so far, even if it acted a weirdly in our intern&rsquo;s project (I think the problem arose from having current sense resistors, and their measurement channels, in series). His project is the third internal board we&rsquo;ve got this puppy on <a href="http://romotive.com">at work</a>, and I&rsquo;ll probably keep on slapping them down whenever I need a quick-and-easy current measurement.</p>
+]]></content>
+  </entry>
+  
+</feed>
