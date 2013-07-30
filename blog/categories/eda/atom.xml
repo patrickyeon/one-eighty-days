@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: electronics | One Hundred and Eighty Days]]></title>
-  <link href="http://patrickyeon.github.io/one-eighty-days/blog/categories/electronics/atom.xml" rel="self"/>
+  <title><![CDATA[Category: EDA | One Hundred and Eighty Days]]></title>
+  <link href="http://patrickyeon.github.io/one-eighty-days/blog/categories/eda/atom.xml" rel="self"/>
   <link href="http://patrickyeon.github.io/one-eighty-days/"/>
   <updated>2013-07-29T23:51:37-07:00</updated>
   <id>http://patrickyeon.github.io/one-eighty-days/</id>
